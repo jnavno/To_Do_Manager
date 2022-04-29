@@ -1,4 +1,4 @@
-# To_Do_Manager
+# To Do Manager
 
 This TODO manager is built on the priority queue data structure.
 Every task has a time when it must be completed. 
